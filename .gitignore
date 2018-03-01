@@ -1,0 +1,6 @@
+
+#obj files
+*.o
+
+#swap files
+*.swp.*
